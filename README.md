@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Sou de Rio Pardo - RS<br><br>- 🔭 Aux. Administrativo.<br><br>- 📚 Atualmente sou estudante de desenvolvimento Full Stack na Growdev.<br><br>- ⚡ Como hobbies gosto de um video game, esportes, séries, filmes, teatro e reunião com amigos.</p>
+<p align="left">Sou de Rio Pardo - RS<br><br>- 🔭 Assessor Parlamentar.<br><br>- 📚 Atualmente sou estudante de desenvolvimento Full Stack na Growdev.<br><br>- ⚡ Como hobbies gosto de um video game, esportes, séries, filmes, teatro e reunião com amigos.</p>
 
 ###
 
