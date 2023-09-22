@@ -25,11 +25,11 @@
 
 ###
 
-<h4 align="left">👩‍💻  Após minha formação de Técnico em Mecatrônica, tive a oportunidade de desempenhar várias funções que abrangem minha área de formação. Passando por usinagem, montagem de equipamentos, operação de máquinas, leitura de desenhos técnicos, elaboração de relatórios, projetos em softwares, gestão e etc. <br><br>Gosto muito da área tecnológica e sempre busquei ficar atualizado neste meio. Atualmente estou cursando Full Stack Web Developer pela Growdev. O programa possui uma formação com fundamentos da programação e tecnologia até o desenvolvimento de um software completo, assim teremos conhecimentos em Conceitos Básicos da Computação, HTML, CSS, Javascript, Bootstrap, Fundamentos de Node JS, Fundamentos de Back-End e API, Git e GitHub, teremos também a oportunidade de aplicar nossos conhecimentos em projetos práticos para complementar a prática e o aprendizado. </h4>
+<h4 align="left">👩‍💻  Após minha formação de Técnico em Mecatrônica, tive a oportunidade de desempenhar várias funções que abrangem minha área de formação. Passando por usinagem, montagem de equipamentos, operação de máquinas, projetos em softwares, gestão e etc. <br><br>Gosto muito da área tecnológica e sempre busquei ficar atualizado neste meio. Atualmente estou cursando Full Stack Web Developer pela Growdev.<br><br> O programa possui uma formação com fundamentos da programação e tecnologia até o desenvolvimento de um software completo, assim teremos conhecimentos em Conceitos Básicos da Computação, HTML, CSS, Javascript, Bootstrap, Fundamentos de Node JS, Fundamentos de Back-End e API, Git e GitHub, teremos também a oportunidade de aplicar nossos conhecimentos em projetos práticos para complementar a prática e o aprendizado. </h4>
 
 ###
 
-<p align="left">Sou de Rio Pardo - RS<br><br>- 🔭 Assessor Parlamentar.<br><br>- 📚 Atualmente sou estudante de desenvolvimento Full Stack na Growdev.<br><br>- ⚡ Como hobbies gosto de um video game, esportes, séries, filmes, teatro e reunião com amigos.</p>
+<p align="left">Sou de Rio Pardo - RS<br><br>- 🔭 Assessor Parlamentar na Câmara de Vereadores.<br><br>- 📚 Atualmente sou estudante de desenvolvimento Full Stack na Growdev.<br><br>- ⚡ Como hobbies gosto de um video game, esportes, séries, filmes, teatro e reunião com amigos.</p>
 
 ###
 
